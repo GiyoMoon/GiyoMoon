@@ -30,6 +30,7 @@ Others
 
 ### 💡I want to learn
 <div>
+  <img src="https://img.shields.io/badge/Next.js%20-%23404040.svg?&style=flat-square&logo=next.js&logoColor=C691E9"/>
   <img src="https://img.shields.io/badge/Kubernetes%20-%23404040.svg?&style=flat-square&logo=kubernetes&logoColor=C691E9"/>
 </div>
 
