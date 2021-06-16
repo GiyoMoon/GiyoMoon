@@ -6,23 +6,22 @@ In the past, I've written many Discord bots like [Crystal](https://github.com/pr
 
 ## 💻Technology Stack
 ### 💜I often work with
-#### <u>Frameworks</u>
+<div></div>
+Frameworks
 <div>
   <img src="https://img.shields.io/badge/NestJS%20-%23404040.svg?&style=flat-square&logo=nestjs&logoColor=88DCFE"/>
   <img src="https://img.shields.io/badge/React%20-%23404040.svg?&style=flat-square&logo=react&logoColor=88DCFE"/>
   <img src="https://img.shields.io/badge/Angular%20-%23404040.svg?&style=flat-square&logo=angular&logoColor=88DCFE"/>
   <img src="https://img.shields.io/badge/Tailwind%20-%23404040.svg?&style=flat-square&logo=tailwind-css&logoColor=88DCFE"/>
 </div>
-
-#### <u>Languages</u>
+Languages
 <div>
   <img src="https://img.shields.io/badge/Typescript%20-%23404040.svg?&style=flat-square&logo=typescript&logoColor=C691E9"/>
   <img src="https://img.shields.io/badge/Javascript%20-%23404040.svg?&style=flat-square&logo=javascript&logoColor=C691E9"/>
   <img src="https://img.shields.io/badge/HTML5%20-%23404040.svg?&style=flat-square&logo=html5&logoColor=C691E9"/>
   <img src="https://img.shields.io/badge/CSS3%20-%23404040.svg?&style=flat-square&logo=css3&logoColor=C691E9"/>
 </div>
-
-#### <u>Others</u>
+Others
 <div>
   <img src="https://img.shields.io/badge/Docker%20-%23404040.svg?&style=flat-square&logo=docker&logoColor=88DCFE"/>
   <img src="https://img.shields.io/badge/Git%20-%23404040.svg?&style=flat-square&logo=git&logoColor=88DCFE"/>
@@ -31,7 +30,7 @@ In the past, I've written many Discord bots like [Crystal](https://github.com/pr
 
 ### 💡I want to learn
 <div>
-  <img src="https://img.shields.io/badge/kubernetes%20-%23404040.svg?&style=flat-square&logo=kubernetes&logoColor=C691E9"/>
+  <img src="https://img.shields.io/badge/Kubernetes%20-%23404040.svg?&style=flat-square&logo=kubernetes&logoColor=C691E9"/>
 </div>
 
 ### 💫In the past, I've worked with
