@@ -1,6 +1,6 @@
 # GiyoMoon
 ## 📘Projects
-I'm currently working on [WitchTrade](https://witchtrade.org/), a trading website for the Hide & Seek game "Witch It".
+I'm currently working on [WitchTrade](https://github.com/WitchTrade/), a trading website for the Hide & Seek game "Witch It".
 
 In the past, I've written many Discord bots like [Crystal](https://github.com/prsm/Crystal), [WALL-E](https://github.com/GiyoMoon/WALL-E) or [EVE](https://github.com/GiyoMoon/EVE).
 
@@ -11,7 +11,7 @@ Frameworks
 <div>
   <img src="https://img.shields.io/badge/NestJS%20-%23404040.svg?&style=flat-square&logo=nestjs&logoColor=88DCFE"/>
   <img src="https://img.shields.io/badge/React%20-%23404040.svg?&style=flat-square&logo=react&logoColor=88DCFE"/>
-  <img src="https://img.shields.io/badge/Next.js%20-%23404040.svg?&style=flat-square&logo=next.js&logoColor=C691E9"/>
+  <img src="https://img.shields.io/badge/Next.js%20-%23404040.svg?&style=flat-square&logo=next.js&logoColor=88DCFE"/>
   <img src="https://img.shields.io/badge/Angular%20-%23404040.svg?&style=flat-square&logo=angular&logoColor=88DCFE"/>
   <img src="https://img.shields.io/badge/Tailwind%20-%23404040.svg?&style=flat-square&logo=tailwind-css&logoColor=88DCFE"/>
 </div>
