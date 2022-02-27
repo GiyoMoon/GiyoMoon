@@ -12,7 +12,7 @@ In the past, I've written Discord bots like [Crystal](https://github.com/prsm/Cr
   <img src="https://img.shields.io/badge/NestJS%20-%23404040.svg?&style=flat-square&logo=nestjs&logoColor=A860FE"/>
   <img src="https://img.shields.io/badge/Node.js%20-%23404040.svg?&style=flat-square&logo=node.js&logoColor=A860FE"/>
   <img src="https://img.shields.io/badge/Angular%20-%23404040.svg?&style=flat-square&logo=angular&logoColor=A860FE"/>
-  <img src="https://img.shields.io/badge/Tailwind%20-%23404040.svg?&style=flat-square&logo=tailwind-css&logoColor=A860FE"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS%20-%23404040.svg?&style=flat-square&logo=tailwind-css&logoColor=A860FE"/>
 </div>
 <div>
   <img src="https://img.shields.io/badge/Typescript%20-%23404040.svg?&style=flat-square&logo=typescript&logoColor=DD58C1"/>
