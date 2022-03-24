@@ -1,4 +1,4 @@
-<h1 align="center">🌺Hey I'm Jasmin, aka GiyoMoon🌺
+<h1 align="center">Hey👋🌺
 <h2 align="center">💻 Technology Stack 💻</h2>
 <h3 align="center">💜I often work with</h3>
 <div align="center">
