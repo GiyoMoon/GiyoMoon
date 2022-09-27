@@ -2,7 +2,7 @@
   <img src="https://img.shields.io/badge/langs-%23b6e0f9"/>
   <img src="https://img.shields.io/badge/Rust-%23404040.svg?&style=flat&logo=rust&labelColor=b6e0f9&logoColor=404040"/>
   <img src="https://img.shields.io/badge/Typescript-%23404040.svg?&style=flat&logo=typescript&labelColor=b6e0f9&logoColor=404040"/>
-  <img src="https://img.shields.io/badge/NixOS-%23404040.svg?&style=flat&logo=typescript&labelColor=b6e0f9&logoColor=404040"/>
+  <img src="https://img.shields.io/badge/Nix-%23404040.svg?&style=flat&logo=NixOS&labelColor=b6e0f9&logoColor=404040"/>
 </div>
 <div align="center">
   <img src="https://img.shields.io/badge/frameworks-%2352adbc"/>
